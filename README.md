@@ -3,4 +3,4 @@
 - Programa cliente do chat usando java datagrama.
 - Permite conectar a um servidor.
 - Não recebe mensagens do servidor.
-- Use o repositório "chat_servidor_1_thread_datagrama" como o programa servidor.
+- Use o repositório "datagrama_servidor_chat_1_thread" como o programa servidor.

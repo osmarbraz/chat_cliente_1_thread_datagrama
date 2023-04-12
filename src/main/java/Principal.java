@@ -21,8 +21,8 @@ public class Principal {
                 //envia o pacote
                 con.send(pacote);
             }
-        } catch (IOException io) {
-            System.err.println("Problemas de IO");
+        } catch (IOException ioe) {
+            System.out.println("Excecao: " + ioe.getMessage());
         }
     }
 }
